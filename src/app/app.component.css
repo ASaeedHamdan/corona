@@ -1,0 +1,28 @@
+*{
+    
+}
+h1 , h2, label{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.asd
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("../assets/asd3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+   
+}
+
+select{
+    height: 35px;
+}
+button{
+    height: 35px;
+}
